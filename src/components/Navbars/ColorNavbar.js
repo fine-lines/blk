@@ -190,7 +190,7 @@ export default function ColorNavbar() {
                 <Button
                   className="nav-link"
                   color="default"
-                  href="https://dashboard.pcooper.de/"
+                  href="http://localhost:3001/admin/dashboard/"
                   size="sm"
                   target="_blank"
                 >
